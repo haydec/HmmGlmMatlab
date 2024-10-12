@@ -1,0 +1,1 @@
+PlotData = PlotBernGlmHmm(DataInput, settingsBernGlmHmm, FullFitData)
